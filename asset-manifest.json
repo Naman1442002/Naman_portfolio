@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Naman_portfolio/static/css/main.b217f510.css",
+    "main.js": "/Naman_portfolio/static/js/main.cddc3899.js",
+    "static/media/resume.pdf": "/Naman_portfolio/static/media/resume.f67fb6df004d6de46b05.pdf",
+    "static/media/WeatherForcasting.png": "/Naman_portfolio/static/media/WeatherForcasting.41e5b2f4230d1f703f9d.png",
+    "static/media/SimonGame.png": "/Naman_portfolio/static/media/SimonGame.483d2c8af0fde9a6951e.png",
+    "static/media/education.png": "/Naman_portfolio/static/media/education.cd75dacbabe4807e7ce6.png",
+    "static/media/TodoList.png": "/Naman_portfolio/static/media/TodoList.b0e29980850b684f0fe6.png",
+    "static/media/Profile.png": "/Naman_portfolio/static/media/Profile.13f1d9e0d46b404f74d8.png",
+    "static/media/Ecomerce.png": "/Naman_portfolio/static/media/Ecomerce.86c763b5bf605dcf1f3f.png",
+    "static/media/Drumkit.png": "/Naman_portfolio/static/media/Drumkit.544a60c6a7d3ad56a8af.png",
+    "static/media/naman.jpg": "/Naman_portfolio/static/media/naman.c63249618634e5a59bb8.jpg",
+    "static/media/NewsletterPage.jpg": "/Naman_portfolio/static/media/NewsletterPage.2edc4dff2aed9c4d14ca.jpg",
+    "index.html": "/Naman_portfolio/index.html",
+    "main.b217f510.css.map": "/Naman_portfolio/static/css/main.b217f510.css.map",
+    "main.cddc3899.js.map": "/Naman_portfolio/static/js/main.cddc3899.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b217f510.css",
+    "static/js/main.cddc3899.js"
+  ]
+}
